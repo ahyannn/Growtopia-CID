@@ -1,6 +1,6 @@
 ### Whats the latest Growtopia Port?
 
-* Currently its: 17255
+* You can check it at http://f0603296.xsph.ru/growtopia/server_data.php you need to choose the first port you see there which starts with "17"
 
 ### How to use CID-Creator-v2?
 
@@ -16,7 +16,6 @@ Alternative: You can go to editor and download the acc.txt
 ### How to use CID-Creator-v2? ( Video Tutorial )
 
 * English Tutorials: https://youtu.be/ACwncz2DR5o
-* Indonesian Tutorials: https://youtu.be/k2k3-5ohfoA
 
 ### How to get new IP and create more accounts when you got too many account created error?
 
